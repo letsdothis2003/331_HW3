@@ -1,0 +1,28 @@
+To-Do List for Chapter 3 hw3(sql file and video)
+
+1. Look back at past lectures and chapter for new material. 
+-Just to refresh with what was already learned, I looked back at all the materials we went over in the last few classes.
+
+
+
+2. Read the textbook and reviewed the excercizes
+
+- I read through chapter 3, which covered joins(cross, inner, outer, left, right, self)
+-Skimmed thorugh and practices some of the problems in the end. 
+
+
+
+3. Brainstored propositions that would make sense in a business sense. 
+-I had to think how can I do something which would make sense for a company when it comes to their database. What would they do? Common idea was auditing records relating to sales and customers.
+
+
+4.Write SQL Queries AND Tested them
+- For each proposition, I wrote it in T-SQL and ran it in Microsoft server database. 
+- For the joins, I wanted to reflect each one presented in the chapter, so I looked back at the excercises again just to see what I can work with. 
+  
+
+5.)Document and video
+-Spent like a minute per recording, explained syntax and bussiness importance. 
+
+6.) Assist and consult group members
+-Contacted everyone in my group to check each others files and answer any questions 
