@@ -1,0 +1,63 @@
+To-Do List for Chapter 3 Assignment (Showcase in Video)
+
+1. Read the Chapter
+
+   - I started by reading Chapter 3: Multi-Table Queries (Joins)** from *T-SQL Fundamentals.
+   - My goal was to understand every join type: INNER, LEFT, RIGHT, FULL, CROSS, SELF, and Multi-joins.
+
+
+
+2. Review the Exercises
+
+   - I looked at the sample queries and exercises provided in the book and homework files.
+   - I practiced running them to see how results change when I used INNER JOIN vs LEFT JOIN, etc.
+   - This gave me a foundation before creating my own propositions.
+
+
+3. Set Up the Database
+
+   - I explored the key tables: `Sales.Customers`, `Sales.Orders`, `Application.People`, `Warehouse.StockItems`, and `Purchasing.Suppliers`.
+   - I made sure I understood the relationships between these tables.
+
+
+4. Formulate 10 Propositions
+
+   - I created 10 original questions/problems that could be solved with joins.
+   - Each proposition reflects a real business scenario.
+
+
+5.Write SQL Queries
+
+   - For each proposition, I wrote the JOIN query in T-SQL.
+   - I tested them in DBeaver to make sure they ran correctly.
+
+
+6. Document Explanations
+
+   - For each query, I explained 4 parts:
+
+     1. What it does
+     2. How I did it
+     3. Why it’s special
+     4. Business importance
+   - This makes it easy to present and ensures clarity for non-technical viewers.
+
+
+
+7. Connect to NACE Competencies
+
+   * I highlighted which **career readiness skills I used:
+
+     -Critical Thinking → writing propositions and debugging queries.
+     -Technology → using SQL Server & joins.
+     -Communication → explaining results clearly.
+     -Teamwork → preparing my part for the group project.
+     -Equity & Inclusion** → ensuring all entities (customers/suppliers) are represented with LEFT JOINs.
+
+
+8. Create the Presentation (MP4)
+
+   - I prepared my script so I can explain each proposition confidently.
+   - I recorded my screen showing queries and results.
+   - I explained each one in plain language, step by step.
+
