@@ -9,6 +9,8 @@ https://drive.google.com/drive/folders/1DN8tNDZXcDpMb67KGoWnQO5RidowwiBN?usp=dri
 
 
 The group split up into 2 pairs and 1 solo member:
+
+
 Pair 1: Esfar Rakin and Sayantan Saha
 
 Pair 2: Fahim Tanvir(Timestamp 0:21-9:27) and Justin Zara(Timestamp 9:33-16:57)
