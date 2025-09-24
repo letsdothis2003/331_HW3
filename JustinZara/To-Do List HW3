@@ -1,0 +1,13 @@
+To Do List
+1. Read through Chapter 3
+  -I read through the chapter, and learned about the different types of joins (CROSS JOIN, INNER JOIN, OUTER JOIN), and then skimmed through the exercises for the chapter.
+2. Explore the Database
+  -Using DBeaver, I examined the different tables from different schemas in the database "WideWorldImporters", and checked to see what types of queries I could generate using joins.
+  -I experimented a bit with the database, and created a few test queries to see what type of results would be outputted.
+3. Write 10 propositions and 10 SQL queries
+  -I came up with 10 propositions, and then made a query for each of them. I made sure that each query utilizes material that I learned from chapter 3 of T-SQL Fundamentals. 
+  -I ran each query to make sure that the output matches my original proposition. 
+  -Using Azure Data Studio, I saved all of my propositions, queries, and reasons why I think each query is special, into a Jupyter Notebook (.ipynb) file.
+4. Record Presentation of proposition and queries
+  -I recorded an mp4 video capturing my screen. In the recording I explain each proposition and query, and also why I think each query is useful.
+  -In my presentation, I show the rows of data that are outputted from each query.
