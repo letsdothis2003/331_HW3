@@ -2,14 +2,15 @@
 --Group_1045_4
 -- CSCI-331
 -- HW3
--- intro: These are 10 theories using stuff I learned in chapters 2 and 3 using multi-join tables.
+-- intro: These are 10 theories using stuff I learned in chapters 3 using multi-join tables.
 
 /*Include this or some of the queries won’t work*/
 USE WideWorldImporters;
 GO
 
 -- 1.)
-/*This is just using concatenation to find all the users, as a way to audit everyone affiliated with the company. Main purpose of this is mainly for checking how many employees in the company and their designation*/
+/*This is just using concatenation to find all the users, as a way to audit everyone affiliated with the company. Main purpose of this is mainly for checking how many employees in the company and their designation.
+  Main purpose of this is to show the transition from chapter 2 material with chapter 3, as a lot of the next propositions and queries shown here will use the same concept but at a bigger scale*/
 -- Find all employees
 SELECT PersonID,
 CONCAT(PreferredName, ' ,', FullName) AS USERS
