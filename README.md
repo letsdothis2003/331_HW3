@@ -3,7 +3,7 @@ Names: Fahim Tanvir, Esfar Rakin, Justin Zara, Sayantan Saha, Yousuf Ahmed
 
 Course: CSCI-331 DATABASE SYSTEMS
 
-This is homework 4 for CSCI 331. We provided a every file we worked on, separated per person. 
+This is homework 3 for CSCI 331. We provided a every file we worked on, separated per person except the GANT chart. 
 
 All video recordings have been provided below:
 
