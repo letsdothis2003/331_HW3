@@ -9,7 +9,7 @@ All video recordings have been provided below:
 
 The group split up into 2 pairs and 1 solo member:
 
-Pair 1: Esfar Rakin(Timestamp 0:24-17:37) and Sayantan Saha(17:53-27:17)
+Pair 1: Esfar Rakin(Timestamp 0:24-17:37) and Sayantan Saha(Timestamp 17:53-27:17)
 
 https://www.youtube.com/watch?v=oyeey3hrDco
 
