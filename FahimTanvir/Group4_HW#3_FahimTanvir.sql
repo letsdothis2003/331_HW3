@@ -10,7 +10,7 @@ GO
 
 -- 1.)
 /*This is just using concatenation to find all the users, as a way to audit everyone affiliated with the company. Main purpose of this is mainly for checking how many employees in the company and their designation.
-  Main purpose of this is to show the transition from chapter 2 material with chapter 3, as a lot of the next propositions and queries shown here will use the same concept but at a bigger scale*/
+  Main purpose of this in terms of the assignment is to show the transition from chapter 2 material with chapter 3, as a lot of the next propositions and queries shown here will use the same concept but at a bigger scale*/
 -- Find all employees
 SELECT PersonID,
 CONCAT(PreferredName, ' ,', FullName) AS USERS
